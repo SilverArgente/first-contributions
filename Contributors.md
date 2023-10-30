@@ -109,6 +109,7 @@
 - [Joabriel](https://github.com/Joabriel)
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
 - [Vo Le Phu Xuan](https://github.com/volephuxuan)
+- [SilverArgente](https://github.com/SilverArgente)
 - [Aman Bhujel](https://github.com/AmanBhujel)
 - [Itesh Tomar](https://github.com/petrioteer)
 - [CodeWithJazzy](https://github.com/codewithjazzy)
